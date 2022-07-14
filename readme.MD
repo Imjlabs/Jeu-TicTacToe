@@ -1,3 +1,4 @@
-# Tic Tac Toe
+#TicTacToe Web games by Jordan RAPHAEL
 
-On crée un jeu de morpion https://www.youtube.com/watch?v=LSnln1_lmhs
+This is a games i made if you want to play at school :)
+
